@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sumangithazra/MY_DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/sumangithazra/MY_DSA/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/sumangithazra/MY_DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/sumangithazra/MY_DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sumangithazra/MY_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0503-next-greater-element-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0503-next-greater-element-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/sumangithazra/MY_DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/sumangithazra/MY_DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/sumangithazra/MY_DSA/tree/master/0231-power-of-two) |
 | [1610-xor-operation-in-an-array](https://github.com/sumangithazra/MY_DSA/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sumangithazra/MY_DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
