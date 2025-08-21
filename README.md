@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sumangithazra/MY_DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/sumangithazra/MY_DSA/tree/master/0042-trapping-rain-water) |
+| [0136-single-number](https://github.com/sumangithazra/MY_DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sumangithazra/MY_DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sumangithazra/MY_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0503-next-greater-element-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0503-next-greater-element-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sumangithazra/MY_DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sumangithazra/MY_DSA/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sumangithazra/MY_DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
