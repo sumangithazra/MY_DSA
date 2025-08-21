@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sumangithazra/MY_DSA/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/sumangithazra/MY_DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sumangithazra/MY_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0503-next-greater-element-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0503-next-greater-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumangithazra/MY_DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/sumangithazra/MY_DSA/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0503-next-greater-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -81,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumangithazra/MY_DSA/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
