@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sumangithazra/MY_DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/sumangithazra/MY_DSA/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0503-next-greater-element-ii) |
+| [1078-remove-outermost-parentheses](https://github.com/sumangithazra/MY_DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sumangithazra/MY_DSA/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/sumangithazra/MY_DSA/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
