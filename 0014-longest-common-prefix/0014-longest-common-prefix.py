@@ -1,6 +1,6 @@
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
-        m=200
+        '''m=200
         count=0
         flag=0
         for i in strs:
@@ -13,6 +13,22 @@ class Solution:
             if flag==1:
                 break
             count+=1  
-        return strs[0][:count] 
+        return strs[0][:count] '''
+        mini=200
+        for i in strs:
+            mini=min(mini,len(i))
+        count=0
+        for i in range(mini):
+            s=strs[0][i]
+            flag=0
+            for j in strs:
+                if j[i]!=s:
+                    flag=1
+            if flag==1:
+                break
+            count+=1
+        return strs[0][:count]
+
+        
 
         
