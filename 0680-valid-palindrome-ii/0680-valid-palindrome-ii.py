@@ -1,6 +1,6 @@
 class Solution:
     def validPalindrome(self, s: str) -> bool:
-        if s==s[::-1]: return True
+        '''if s==s[::-1]: return True
         n=len(s)
         i=0
         j=n-1
@@ -17,5 +17,20 @@ class Solution:
                     elif q==q[::-1]: return True
                     count+=1
                 else: return False
+        return True'''
+        def palindrom_check(l,r):
+            while l<r:
+                if s[l]!=s[r]:
+                    return False
+                l+=1
+                r-=1
+            return True
+        l=0
+        r=len(s)-1
+        while l<r:
+            if s[l]!=s[r]:
+                return palindrom_check(l+1,r) or palindrom_check(l,r-1)
+            l+=1
+            r-=1
         return True
         
