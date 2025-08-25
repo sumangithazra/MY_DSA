@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sumangithazra/MY_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sumangithazra/MY_DSA/tree/master/0735-asteroid-collision) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/sumangithazra/MY_DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/sumangithazra/MY_DSA/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sumangithazra/MY_DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sumangithazra/MY_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0680-valid-palindrome-ii) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/sumangithazra/MY_DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Linked List
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/sumangithazra/MY_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sumangithazra/MY_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/sumangithazra/MY_DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/sumangithazra/MY_DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
 | ------- |
