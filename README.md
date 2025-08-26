@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sumangithazra/MY_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/sumangithazra/MY_DSA/tree/master/0735-asteroid-collision) |
+| [1675-magnetic-force-between-two-balls](https://github.com/sumangithazra/MY_DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sumangithazra/MY_DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3188-find-champion-i](https://github.com/sumangithazra/MY_DSA/tree/master/3188-find-champion-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/sumangithazra/MY_DSA/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -94,12 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sumangithazra/MY_DSA/tree/master/0015-3sum) |
 | [0347-top-k-frequent-elements](https://github.com/sumangithazra/MY_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sumangithazra/MY_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1675-magnetic-force-between-two-balls](https://github.com/sumangithazra/MY_DSA/tree/master/1675-magnetic-force-between-two-balls) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sumangithazra/MY_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/sumangithazra/MY_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sumangithazra/MY_DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/sumangithazra/MY_DSA/tree/master/1675-magnetic-force-between-two-balls) |
 ## Sliding Window
 |  |
 | ------- |
