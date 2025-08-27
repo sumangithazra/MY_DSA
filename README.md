@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sumangithazra/MY_DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sumangithazra/MY_DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/sumangithazra/MY_DSA/tree/master/0042-trapping-rain-water) |
+| [0128-longest-consecutive-sequence](https://github.com/sumangithazra/MY_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sumangithazra/MY_DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/sumangithazra/MY_DSA/tree/master/0189-rotate-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sumangithazra/MY_DSA/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/sumangithazra/MY_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/sumangithazra/MY_DSA/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/sumangithazra/MY_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sumangithazra/MY_DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3188-find-champion-i](https://github.com/sumangithazra/MY_DSA/tree/master/3188-find-champion-i) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sumangithazra/MY_DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
