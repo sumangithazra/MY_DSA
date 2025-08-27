@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sumangithazra/MY_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sumangithazra/MY_DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sumangithazra/MY_DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/sumangithazra/MY_DSA/tree/master/0042-trapping-rain-water) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sumangithazra/MY_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/sumangithazra/MY_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/sumangithazra/MY_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/sumangithazra/MY_DSA/tree/master/0410-split-array-largest-sum) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sumangithazra/MY_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/sumangithazra/MY_DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
