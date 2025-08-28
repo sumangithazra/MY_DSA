@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sumangithazra/MY_DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sumangithazra/MY_DSA/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/sumangithazra/MY_DSA/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/sumangithazra/MY_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sumangithazra/MY_DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0137-single-number-ii) |
