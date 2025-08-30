@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sumangithazra/MY_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sumangithazra/MY_DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sumangithazra/MY_DSA/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/sumangithazra/MY_DSA/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sumangithazra/MY_DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/sumangithazra/MY_DSA/tree/master/0735-asteroid-collision) |
 | [1036-rotting-oranges](https://github.com/sumangithazra/MY_DSA/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/sumangithazra/MY_DSA/tree/master/1073-number-of-enclaves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sumangithazra/MY_DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1829-maximum-units-on-a-truck](https://github.com/sumangithazra/MY_DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sumangithazra/MY_DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sumangithazra/MY_DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sumangithazra/MY_DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sumangithazra/MY_DSA/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/sumangithazra/MY_DSA/tree/master/1073-number-of-enclaves) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sumangithazra/MY_DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sumangithazra/MY_DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sumangithazra/MY_DSA/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/sumangithazra/MY_DSA/tree/master/1073-number-of-enclaves) |
 | [3188-find-champion-i](https://github.com/sumangithazra/MY_DSA/tree/master/3188-find-champion-i) |
 ## Union Find
 |  |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sumangithazra/MY_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sumangithazra/MY_DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/sumangithazra/MY_DSA/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/sumangithazra/MY_DSA/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
