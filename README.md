@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/sumangithazra/MY_DSA/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/sumangithazra/MY_DSA/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/sumangithazra/MY_DSA/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/sumangithazra/MY_DSA/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/sumangithazra/MY_DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sumangithazra/MY_DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sumangithazra/MY_DSA/tree/master/1675-magnetic-force-between-two-balls) |
+| [1753-path-with-minimum-effort](https://github.com/sumangithazra/MY_DSA/tree/master/1753-path-with-minimum-effort) |
 | [1829-maximum-units-on-a-truck](https://github.com/sumangithazra/MY_DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sumangithazra/MY_DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3188-find-champion-i](https://github.com/sumangithazra/MY_DSA/tree/master/3188-find-champion-i) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sumangithazra/MY_DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sumangithazra/MY_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sumangithazra/MY_DSA/tree/master/1675-magnetic-force-between-two-balls) |
+| [1753-path-with-minimum-effort](https://github.com/sumangithazra/MY_DSA/tree/master/1753-path-with-minimum-effort) |
 ## Sliding Window
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sumangithazra/MY_DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sumangithazra/MY_DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sumangithazra/MY_DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/sumangithazra/MY_DSA/tree/master/1753-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sumangithazra/MY_DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sumangithazra/MY_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sumangithazra/MY_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1753-path-with-minimum-effort](https://github.com/sumangithazra/MY_DSA/tree/master/1753-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -271,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sumangithazra/MY_DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sumangithazra/MY_DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sumangithazra/MY_DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/sumangithazra/MY_DSA/tree/master/1753-path-with-minimum-effort) |
 | [3188-find-champion-i](https://github.com/sumangithazra/MY_DSA/tree/master/3188-find-champion-i) |
 ## Union Find
 |  |
@@ -280,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sumangithazra/MY_DSA/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/sumangithazra/MY_DSA/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/sumangithazra/MY_DSA/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/sumangithazra/MY_DSA/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
