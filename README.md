@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sumangithazra/MY_DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sumangithazra/MY_DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sumangithazra/MY_DSA/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/sumangithazra/MY_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumangithazra/MY_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sumangithazra/MY_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sumangithazra/MY_DSA/tree/master/0130-surrounded-regions) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sumangithazra/MY_DSA/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/sumangithazra/MY_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sumangithazra/MY_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/sumangithazra/MY_DSA/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/sumangithazra/MY_DSA/tree/master/0347-top-k-frequent-elements) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/sumangithazra/MY_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/sumangithazra/MY_DSA/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/sumangithazra/MY_DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sumangithazra/MY_DSA/tree/master/0733-flood-fill) |
