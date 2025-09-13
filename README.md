@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sumangithazra/MY_DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sumangithazra/MY_DSA/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/sumangithazra/MY_DSA/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/sumangithazra/MY_DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sumangithazra/MY_DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumangithazra/MY_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sumangithazra/MY_DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sumangithazra/MY_DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sumangithazra/MY_DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sumangithazra/MY_DSA/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/sumangithazra/MY_DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sumangithazra/MY_DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sumangithazra/MY_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sumangithazra/MY_DSA/tree/master/0189-rotate-array) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sumangithazra/MY_DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/sumangithazra/MY_DSA/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/sumangithazra/MY_DSA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sumangithazra/MY_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/sumangithazra/MY_DSA/tree/master/0435-non-overlapping-intervals) |
