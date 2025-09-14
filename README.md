@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/sumangithazra/MY_DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumangithazra/MY_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sumangithazra/MY_DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumangithazra/MY_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/sumangithazra/MY_DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sumangithazra/MY_DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/sumangithazra/MY_DSA/tree/master/0820-find-eventual-safe-states) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumangithazra/MY_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/sumangithazra/MY_DSA/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/sumangithazra/MY_DSA/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/sumangithazra/MY_DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumangithazra/MY_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sumangithazra/MY_DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumangithazra/MY_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sumangithazra/MY_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/sumangithazra/MY_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sumangithazra/MY_DSA/tree/master/0455-assign-cookies) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumangithazra/MY_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sumangithazra/MY_DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1829-maximum-units-on-a-truck](https://github.com/sumangithazra/MY_DSA/tree/master/1829-maximum-units-on-a-truck) |
 ## Binary Search
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sumangithazra/MY_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sumangithazra/MY_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumangithazra/MY_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sumangithazra/MY_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/sumangithazra/MY_DSA/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Breadth-First Search
@@ -235,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/sumangithazra/MY_DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sumangithazra/MY_DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/sumangithazra/MY_DSA/tree/master/0820-find-eventual-safe-states) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumangithazra/MY_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/sumangithazra/MY_DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/sumangithazra/MY_DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sumangithazra/MY_DSA/tree/master/1171-shortest-path-in-binary-matrix) |
