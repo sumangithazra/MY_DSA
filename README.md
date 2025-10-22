@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sumangithazra/MY_DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/sumangithazra/MY_DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sumangithazra/MY_DSA/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/sumangithazra/MY_DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sumangithazra/MY_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0229-majority-element-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sumangithazra/MY_DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sumangithazra/MY_DSA/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/sumangithazra/MY_DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sumangithazra/MY_DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sumangithazra/MY_DSA/tree/master/0231-power-of-two) |
 | [1610-xor-operation-in-an-array](https://github.com/sumangithazra/MY_DSA/tree/master/1610-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/sumangithazra/MY_DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -469,4 +471,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/sumangithazra/MY_DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sumangithazra/MY_DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sumangithazra/MY_DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sumangithazra/MY_DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sumangithazra/MY_DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
