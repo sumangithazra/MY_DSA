@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sumangithazra/MY_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/sumangithazra/MY_DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/sumangithazra/MY_DSA/tree/master/0735-asteroid-collision) |
+| [1034-subarrays-with-k-different-integers](https://github.com/sumangithazra/MY_DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/sumangithazra/MY_DSA/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sumangithazra/MY_DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/sumangithazra/MY_DSA/tree/master/1073-number-of-enclaves) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sumangithazra/MY_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/sumangithazra/MY_DSA/tree/master/0239-sliding-window-maximum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/sumangithazra/MY_DSA/tree/master/1034-subarrays-with-k-different-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumangithazra/MY_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sumangithazra/MY_DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumangithazra/MY_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1034-subarrays-with-k-different-integers](https://github.com/sumangithazra/MY_DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sumangithazra/MY_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/sumangithazra/MY_DSA/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Breadth-First Search
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sumangithazra/MY_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sumangithazra/MY_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1034-subarrays-with-k-different-integers](https://github.com/sumangithazra/MY_DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sumangithazra/MY_DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Quickselect
 |  |
