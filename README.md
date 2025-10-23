@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sumangithazra/MY_DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sumangithazra/MY_DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sumangithazra/MY_DSA/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sumangithazra/MY_DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sumangithazra/MY_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/sumangithazra/MY_DSA/tree/master/0088-merge-sorted-array) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sumangithazra/MY_DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sumangithazra/MY_DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sumangithazra/MY_DSA/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/sumangithazra/MY_DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumangithazra/MY_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sumangithazra/MY_DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sumangithazra/MY_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/sumangithazra/MY_DSA/tree/master/0130-surrounded-regions) |
