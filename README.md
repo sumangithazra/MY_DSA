@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sumangithazra/MY_DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sumangithazra/MY_DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sumangithazra/MY_DSA/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/sumangithazra/MY_DSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/sumangithazra/MY_DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sumangithazra/MY_DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sumangithazra/MY_DSA/tree/master/0231-power-of-two) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sumangithazra/MY_DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sumangithazra/MY_DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/sumangithazra/MY_DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/sumangithazra/MY_DSA/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/sumangithazra/MY_DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumangithazra/MY_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -486,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sumangithazra/MY_DSA/tree/master/0204-count-primes) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sumangithazra/MY_DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
