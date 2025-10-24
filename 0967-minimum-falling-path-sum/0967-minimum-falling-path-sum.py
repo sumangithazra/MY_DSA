@@ -1,6 +1,6 @@
 class Solution:
     def minFallingPathSum(self, matrix: List[List[int]]) -> int:
-        n=len(matrix)
+        '''n=len(matrix)
         dp=[[-1]*n for _ in range(n)]
         for col in range(n):
             dp[0][col]=matrix[0][col]
@@ -16,5 +16,24 @@ class Solution:
         mini=dp[n-1][0]
         for col in range(1,n):
             mini=min(mini,dp[n-1][col])
+        return mini'''
+        n=len(matrix)
+        prev=[0]*n
+        curr=[0]*n
+        for col in range(n):
+            prev[col]=matrix[0][col]
+
+        for row in range(1,n):
+            for col in range(n):
+                ld=1e9
+                rd=1e9
+                up=matrix[row][col]+prev[col]
+                if col-1>=0 : ld=matrix[row][col]+prev[col-1]
+                if col+1<n : rd=matrix[row][col]+prev[col+1]
+                curr[col]=min(up,ld,rd)
+            prev=curr[:]
+        mini=prev[0]
+        for col in range(1,n):
+            mini=min(mini,prev[col])
         return mini
         
