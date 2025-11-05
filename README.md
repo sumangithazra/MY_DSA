@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/sumangithazra/MY_DSA/tree/master/1073-number-of-enclaves) |
 | [1129-longest-string-chain](https://github.com/sumangithazra/MY_DSA/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sumangithazra/MY_DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/sumangithazra/MY_DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sumangithazra/MY_DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1753-path-with-minimum-effort](https://github.com/sumangithazra/MY_DSA/tree/master/1753-path-with-minimum-effort) |
 | [1829-maximum-units-on-a-truck](https://github.com/sumangithazra/MY_DSA/tree/master/1829-maximum-units-on-a-truck) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sumangithazra/MY_DSA/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumangithazra/MY_DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/sumangithazra/MY_DSA/tree/master/1129-longest-string-chain) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/sumangithazra/MY_DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sumangithazra/MY_DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1829-maximum-units-on-a-truck](https://github.com/sumangithazra/MY_DSA/tree/master/1829-maximum-units-on-a-truck) |
 ## Binary Search
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/sumangithazra/MY_DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sumangithazra/MY_DSA/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sumangithazra/MY_DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/sumangithazra/MY_DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sumangithazra/MY_DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Monotonic Stack
 |  |
