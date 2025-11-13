@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sumangithazra/MY_DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sumangithazra/MY_DSA/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/sumangithazra/MY_DSA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/sumangithazra/MY_DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sumangithazra/MY_DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sumangithazra/MY_DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sumangithazra/MY_DSA/tree/master/0231-power-of-two) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sumangithazra/MY_DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sumangithazra/MY_DSA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/sumangithazra/MY_DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sumangithazra/MY_DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sumangithazra/MY_DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/sumangithazra/MY_DSA/tree/master/0118-pascals-triangle) |
@@ -603,4 +605,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/sumangithazra/MY_DSA/tree/master/1300-critical-connections-in-a-network) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sumangithazra/MY_DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
