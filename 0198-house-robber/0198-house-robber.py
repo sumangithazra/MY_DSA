@@ -13,7 +13,7 @@ class Solution:
         #self.nums=nums
         #self.dp=[-1]*(len(nums)+1)
         #return self.func(len(nums)-1)
-        n=len(nums)
+        '''n=len(nums)
         dp=[0]*n
         dp[0]=nums[0]
         for i in range(1,n):
@@ -22,18 +22,19 @@ class Solution:
             if i>1:
                 take+=dp[i-2]
             dp[i]=max(take,not_take)
-        return dp[n-1]
-
-        '''prev=nums[0]
+        return dp[n-1]'''
+        n=len(nums)
+        prev=nums[0]
         prev2=0
-        for i in range(1,len(nums)):
+        for i in range(1,n):
+            not_take=prev
             take=nums[i]
-            if i>1: take+=prev2
-            non_take=prev
-            curr=max(take,non_take)
-
+            if i>1:
+                take+=prev2
+            curr=max(take,not_take)
             prev2=prev
             prev=curr
-        return prev'''
+        return prev
+
         
         
