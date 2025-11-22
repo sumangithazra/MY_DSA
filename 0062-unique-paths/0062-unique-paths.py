@@ -12,18 +12,21 @@ class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
         #self.dp=[[-1]*n for _ in range(m)]
         #return self.func(m-1,n-1)
-        dp=[[0]*n for _ in range(m)]
+        #dp=[[0]*n for _ in range(m)]
+        prev=[0]*n
+        curr=[0]*n
         for i in range(m):
             for j in range(n):
                 if i==0 and j==0:
-                    dp[i][j]=1
+                    curr[j]=1
                     continue
                 up=0
                 left=0
-                if i>0: up=dp[i-1][j]
-                if j>0: left=dp[i][j-1]
-                dp[i][j]=up+left
-        return dp[m-1][n-1]
+                if i>0: up=prev[j]
+                if j>0: left=curr[j-1]
+                curr[j]=up+left
+            prev=curr[:]
+        return prev[n-1]
         '''dp=[[-1]*n for i in range(m)]
         for i in range(m):
             for j in range(n):
