@@ -15,18 +15,20 @@ class Solution:
         #return self.func(m-1,n-1)
         m=len(grid)
         n=len(grid[0])
-        dp=[[0]*n for _ in range(m)]
+        prev=[0]*n
+        curr=[0]*n
         for i in range(m):
             for j in range(n):
                 if i==0 and j==0: 
-                    dp[i][j]=grid[0][0]
+                    curr[j]=grid[0][0]
                     continue
                 up=1e9
                 left=1e9
-                if i>0: up=grid[i][j]+ dp[i-1][j]
-                if j>0: left=grid[i][j]+ dp[i][j-1]
-                dp[i][j]=min(left,up)
-        return dp[m-1][n-1]
+                if i>0: up=grid[i][j]+ prev[j]
+                if j>0: left=grid[i][j]+ curr[j-1]
+                curr[j]=min(left,up)
+            prev=curr[:]
+        return prev[n-1]
         '''m=len(grid)
         n=len(grid[0])
         dp=[[-1]*n for _ in range(m)]
