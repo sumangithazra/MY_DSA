@@ -10,19 +10,26 @@ class Solution:
         self.dp[idx][target]=take or not_take
         return self.dp[idx][target]
     def CheckSum(self,sumi):
-        dp=[[False]*(sumi+1) for _ in range(self.n)]
-        for idx in range(self.n):
-            dp[idx][0]=True
+        #dp=[[False]*(sumi+1) for _ in range(self.n)]
+        prev=[False]*(sumi+1)
+        curr=[False]*(sumi+1)
+        
+        #for idx in range(self.n):
+            #dp[idx][0]=True
+        prev[0]=True
         if self.nums[0]<=sumi:
-            dp[0][self.nums[0]]=True
-        for idx in range(self.n):
+            prev[self.nums[0]]=True
+        for idx in range(1,self.n):
+            #curr=[False]*(sumi+1)
+            curr[0]=True
             for target in range(1,sumi+1):
-                not_take=dp[idx-1][target]
+                not_take=prev[target]
                 take=False
                 if self.nums[idx]<=target:
-                    take=dp[idx-1][target-self.nums[idx]]
-                dp[idx][target]=take or not_take
-        return dp[self.n-1][sumi]
+                    take=prev[target-self.nums[idx]]
+                curr[target]=take or not_take
+            prev=curr[:]
+        return prev[sumi]
 
 
     def canPartition(self, nums: List[int]) -> bool:
