@@ -16,7 +16,7 @@ class Solution:
         #self.coins=coins
         #self.dp=[[-1]*(amount+1) for _ in range(n)]
         #return self.func(n-1,amount)
-        n=len(coins)
+        '''n=len(coins)
         dp=[[0]*(amount+1) for _ in range(n)]
         for idx in range(n):
             dp[idx][0]=1
@@ -30,7 +30,22 @@ class Solution:
                 if coins[i]<=target:
                     take=dp[i][target-coins[i]]
                 dp[i][target]=take+not_take
-        return dp[n-1][amount]
+        return dp[n-1][amount]'''
+        n=len(coins)
+        prev=[0]*(amount+1)
+        curr=[0]*(amount+1)
+        for target in range(amount+1):
+            if target % coins[0]==0:
+                prev[target]=1
+        for i in range(1,n):
+            for target in range(amount+1):
+                not_take=prev[target]
+                take=0
+                if coins[i]<=target:
+                    take=curr[target-coins[i]]
+                curr[target]=take+not_take
+            prev=curr[:]
+        return prev[amount]
         '''n=len(coins)
         #dp=[[0]*(amount+1) for _ in range(n)]
         prev=[0]*(amount+1)
