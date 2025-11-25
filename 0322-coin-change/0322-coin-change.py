@@ -1,47 +1,23 @@
 class Solution:
+    def func(self,idx,target):
+        if target==0: return 0
+        if idx==0:
+            if target % self.coins[idx]==0: return target // self.coins[idx]
+            else:
+                return 1e9
+        if self.dp[idx][target]!=-1: return self.dp[idx][target]
+        not_take=self.func(idx-1,target)
+        take=1e9
+        if self.coins[idx]<=target:
+            take=1+self.func(idx,target-self.coins[idx])
+        self.dp[idx][target]=min(take,not_take)
+        return self.dp[idx][target]
     def coinChange(self, coins: List[int], amount: int) -> int:
-        '''if amount==0: return 0
-        coins.sort()
         n=len(coins)
-        count=0
-        for i in range(n-1,-1,-1):
-            while amount>=coins[i]:
-                count+=1
-                amount-=coins[i]
-        if amount!=0: return -1
-        return count'''
-        n=len(coins)
-        dp=[[0]*(amount+1) for _ in range(n)]
-        for i in range(amount+1):
-            if i%coins[0]==0: dp[0][i]=i//coins[0]
-            else: dp[0][i]=1e9
-        for idx in range(1,n):
-            for target in range(amount+1):
-                not_take=0+dp[idx-1][target]
-                take=1e9
-                if coins[idx]<=target:
-                    take=1+dp[idx][target-coins[idx]]
-                dp[idx][target]=min(take,not_take)
-        ans=dp[n-1][amount]
-        return -1 if ans>=1e9 else ans
-        '''n=len(coins)
-        prev=[1e9]*(amount+1)
-        curr=[1e9]*(amount+1)
-        #dp=[[1e9]*(amount+1) for _ in range(n)]
-        for i in range(amount+1):
-            if i%coins[0]==0: prev[i]=i//coins[0]
-            else: prev[i]=1e9
-
-        for idx in range(1,n):
-            for target in range(amount+1):
-                not_take=0+prev[target]
-                take=1e9
-                if coins[idx]<=target:
-                    take=1+curr[target-coins[idx]]
-                curr[target]=min(take,not_take)
-            prev=curr[:]
-        ans=prev[amount]
-        return -1 if ans>=1e9 else ans'''
+        self.coins=coins
+        self.dp=[[-1]*(amount+1) for _ in range(n)]
+        ans=self.func(n-1,amount)
+        return -1 if ans==1e9 else ans
 
 
         
