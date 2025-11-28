@@ -15,7 +15,7 @@ class Solution:
         #n=len(s)
         #self.dp=[[-1]*(n+1) for _ in range(n+1)]
         #return self.func(n,n)
-        t=s[::-1]
+        '''t=s[::-1]
         n=len(s)
         dp=[[0]*(n+1) for _ in range(n+1)]
         for i in range(1,n+1):
@@ -24,4 +24,16 @@ class Solution:
                     dp[i][j]=1+dp[i-1][j-1]
                 else:
                     dp[i][j]=max(dp[i-1][j],dp[i][j-1])
-        return dp[n][n]
+        return dp[n][n]'''
+        t=s[::-1]
+        n=len(s)
+        prev=[0]*(n+1)
+        curr=[0]*(n+1)
+        for i in range(1,n+1):
+            for j in range(1,n+1):
+                if s[i-1]==t[j-1]:
+                    curr[j]=1+prev[j-1]
+                else:
+                    curr[j]=max(prev[j],curr[j-1])
+            prev=curr[:]
+        return prev[n]
