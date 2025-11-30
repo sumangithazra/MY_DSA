@@ -24,7 +24,7 @@ class Solution:
         #m=len(p)
         #self.dp=[[-1]*(m+1) for _ in range(n+1)]
         #return self.func(n,m)
-        n=len(s)
+        '''n=len(s)
         m=len(p)
         dp=[[False]*(m+1) for _ in range(n+1)]
         dp[0][0]=True
@@ -35,12 +35,35 @@ class Solution:
             else:
                 dp[0][j]=False
             j+=1
-
         for i in range(1,n+1):
             for j in range(1,m+1):
                 if s[i-1]==p[j-1] or p[j-1]=='?':
                     dp[i][j]=dp[i-1][j-1]
                 elif p[j-1]=='*':
                     dp[i][j]= dp[i-1][j] or dp[i][j-1]
-        return dp[n][m]
+        return dp[n][m]'''
+        n=len(s)
+        m=len(p)
+        prev=[False]*(m+1)
+        curr=[False]*(m+1)
+        prev[0]=True
+        j=1
+        while j<=m:
+            if p[j-1]=='*':
+                prev[j]=prev[j-1]
+            else:
+                prev[j]=False
+            j+=1
+        for i in range(1,n+1):
+            curr[0]=False
+            for j in range(1,m+1):
+                if s[i-1]==p[j-1] or p[j-1]=='?':
+                    curr[j]=prev[j-1]
+                elif p[j-1]=='*':
+                    curr[j]= prev[j] or curr[j-1]
+                else:
+                    curr[j]=False
+            prev=curr[:]
+        return prev[m]
+        
         
