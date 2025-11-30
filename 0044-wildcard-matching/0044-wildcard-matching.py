@@ -18,10 +18,29 @@ class Solution:
             return self.dp[i][j]
         else: return False
     def isMatch(self, s: str, p: str) -> bool:
-        self.s=s
-        self.p=p
+        #self.s=s
+        #self.p=p
+        #n=len(s)
+        #m=len(p)
+        #self.dp=[[-1]*(m+1) for _ in range(n+1)]
+        #return self.func(n,m)
         n=len(s)
         m=len(p)
-        self.dp=[[-1]*(m+1) for _ in range(n+1)]
-        return self.func(n,m)
+        dp=[[False]*(m+1) for _ in range(n+1)]
+        dp[0][0]=True
+        j=1
+        while j<=m:
+            if p[j-1]=='*':
+                dp[0][j]=dp[0][j-1]
+            else:
+                dp[0][j]=False
+            j+=1
+
+        for i in range(1,n+1):
+            for j in range(1,m+1):
+                if s[i-1]==p[j-1] or p[j-1]=='?':
+                    dp[i][j]=dp[i-1][j-1]
+                elif p[j-1]=='*':
+                    dp[i][j]= dp[i-1][j] or dp[i][j-1]
+        return dp[n][m]
         
