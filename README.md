@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/sumangithazra/MY_DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/sumangithazra/MY_DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/sumangithazra/MY_DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1092-shortest-common-supersequence](https://github.com/sumangithazra/MY_DSA/tree/master/1092-shortest-common-supersequence) |
 | [1121-partition-array-for-maximum-sum](https://github.com/sumangithazra/MY_DSA/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/sumangithazra/MY_DSA/tree/master/1129-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/sumangithazra/MY_DSA/tree/master/1143-longest-common-subsequence) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/sumangithazra/MY_DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0680-valid-palindrome-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/sumangithazra/MY_DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1092-shortest-common-supersequence](https://github.com/sumangithazra/MY_DSA/tree/master/1092-shortest-common-supersequence) |
 | [1129-longest-string-chain](https://github.com/sumangithazra/MY_DSA/tree/master/1129-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/sumangithazra/MY_DSA/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/sumangithazra/MY_DSA/tree/master/1170-shortest-common-supersequence) |
