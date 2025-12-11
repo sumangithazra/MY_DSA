@@ -16,7 +16,7 @@ class Solution:
         right_height=self.height_tree(root.right)
         self.diameter=max(self.diameter,left_height+right_height)
         return 1+max(left_height,right_height)'''
-        self.maxi=0
+        '''self.maxi=0
         self.diameter(root)
         return self.maxi
     def diameter(self,node):
@@ -24,6 +24,17 @@ class Solution:
         lh=self.diameter(node.left)
         rh=self.diameter(node.right)
         self.maxi=max(self.maxi,lh+rh)
+        return 1+max(lh,rh)'''
+        self.maxi=0
+        self.diameter(root)
+        return self.maxi
+    def diameter(self,root):
+        if not root:
+            return 0
+        lh=self.diameter(root.left)
+        rh=self.diameter(root.right)
+        self.maxi=max(self.maxi,lh+rh)
         return 1+max(lh,rh)
+
 
         
