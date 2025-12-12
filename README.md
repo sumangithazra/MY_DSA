@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sumangithazra/MY_DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sumangithazra/MY_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/sumangithazra/MY_DSA/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/sumangithazra/MY_DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sumangithazra/MY_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sumangithazra/MY_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sumangithazra/MY_DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sumangithazra/MY_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sumangithazra/MY_DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sumangithazra/MY_DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/sumangithazra/MY_DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sumangithazra/MY_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/sumangithazra/MY_DSA/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumangithazra/MY_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
